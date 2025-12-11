@@ -1,0 +1,6 @@
+I created the branches to create proper segments in my html. Using: 
+$git checkout -b (insert branch name) to add new branches
+$git add index.html to stage my changes
+$git commit -m to commit my changes.
+From there I would do the following
+git checkout main > git merge (insert previous branch I was at) > fixing conflicts and recommitting and then from there pushing the origin main I did that a few times till I felt I was satisfied with my work. I had to redo this a few times myself because I either broke something (haha) or felt like it didn't look good enough and I honestly might go back and touch up on it a bit more with css as just a fun little thing to do myself!
